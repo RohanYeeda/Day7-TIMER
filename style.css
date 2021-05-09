@@ -18,9 +18,9 @@ body{
 
 #controls{
   width:200px;
-  margin:auto;
+  
   display:inline;
-  margin-left: 200px;
+ 
   color: bisque;
 }
 
@@ -49,5 +49,15 @@ body{
 }
 .content
 {
-  margin: 200px 40px 200px 40px;
+  border-radius: 50px;
+  border: bisque;
+  border-width: 10px;
+ 
+  border-style: solid;
+  padding: 20px 10px 20px 10px;
+  display: ruby-base-container;
+ text-align: center;
+ margin-top: 100px;
+  
+  
 }
